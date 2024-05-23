@@ -8,8 +8,8 @@ A simple contact form built using HTML, CSS, JavaScript, and PHP. This form allo
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [File Structure](#file-structure)
-- [Usage](#usage)
-- [License](#license)
+
+
 
 ## Features
 
